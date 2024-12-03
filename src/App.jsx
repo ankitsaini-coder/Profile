@@ -8,7 +8,7 @@ import Contact from './components/Contact'
 
 const App = () => {
   return (
-    <div className='overflow-x-hidden text-stone-300 antialised'>
+    <div className='overflow-x-hidden text-stone-300 bg-blue-900 antialised'>
       <div className='fixed inset-0 -z-10'>
         <div className='relative h-full w-full bg-black'>
           <div className='absolute bottom-0 left-0 right-0 top-0 bg-[liner-gradient(to_right,#4f4f4f2e_1px,transparent_1px),liner-gradient(to_bottom,#8080800a_1px,transparent_1px)] bg-[size:14px_24px]'></div>
